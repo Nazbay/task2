@@ -1,0 +1,232 @@
+@media screen and (min-width: 780px) and (max-width: 1099px){
+
+    .first-page__image {
+        padding: 0px 0px 0px 0px;
+    }
+    
+
+    .second-page__border{
+        width:64em;
+
+    }
+
+
+    .second-page__photo-a{
+        position: relative;
+        left:1em;
+    }
+
+  
+
+
+    .second-page__info-a{
+        position: absolute;
+        left:19em;
+
+    }
+
+    .second-page__line-a{
+        -webkit-transform: translate(12.5em,-7px);
+        border: 1px solid #EEEFF2;
+    }
+
+    .second-page__info-b{
+        position: absolute;
+        left:41em;
+
+    }
+
+    .second-page__photo-b{
+        position: relative;
+        left:19em;
+    }
+
+    .second-page__line-b{
+        -webkit-transform: translate(31em,-7px);
+        border: 1px solid #EEEFF2;
+    }
+
+    .second-page__info-c{
+        position: absolute;
+        left:62em;
+
+    }
+
+
+    .second-page__photo-c{
+        position: relative;
+        left:37em;
+    }
+
+
+
+
+   .third-page__info h1{
+       width: 9em;
+   }
+
+
+
+
+  
+
+
+   .fourth-page {
+    width: 77em;
+    position: relative;
+    bottom: -6em;
+   }
+
+   .fourth-page .title{
+       position: relative;
+   }
+
+   .fourth-page .text{
+    position: relative;
+    left:0em;
+
+   }
+
+
+
+   .fourth-page__main .plan-a{
+    position: relative;
+    left:1em;
+}
+
+
+
+   .fourth-page__main .plan-b{
+    position: relative;
+    left:8em;
+}
+
+
+   .fourth-page__main .plan-c{
+       position: relative;
+       left:15em;
+   }
+
+
+
+
+    .fifth-page{
+        text-align: center;
+        position: relative;
+        bottom:-5em;
+       
+
+
+    }
+
+    .fifth-page h1 {
+        font-family: 'Rubik';
+        font-size: 35px;
+        font-weight: 500;
+        line-height: 50px;
+        padding: 80px 0px 10px 0px;
+        position: relative;
+
+        left:4em;
+        }
+
+
+    .fifth-page p {
+        font-family: 'Rubik';
+        padding: 0px 0px 100px 0px;
+        position: relative;
+
+        left:8.5em;
+    }
+
+    .fifth-page__global-photo{
+        width:64em;
+        position: relative;
+        right:-6em;
+    }
+
+    .fifth-page__sponsor-photo{
+        width:62em;
+        position: relative;
+        right:-7em;
+    }
+
+
+
+
+    .sixth-page .info-a{
+        position: relative;
+        left: 4em;
+        padding-top: 3em;
+    }
+    
+    .sixth-page .info-b{
+        position: relative;
+        left: 8em;
+    }
+
+    .sixth-page-a{
+        position: relative;
+        left: 4em;
+    }
+
+    .sixth-page-b{
+        position: relative;
+        left: 5em;
+    }
+
+    .sixth-page-c{
+        position: relative;
+        left: 6em;
+    }
+
+
+    .sixth-page .pic{
+        position: relative;
+        left: -1em;
+    }
+
+    .sixth-page .line{
+        position: relative;
+        left: 4em;
+    }
+
+
+    .seventh-page{
+        width: 56em;
+    }
+
+
+
+    .seventh-page_button{
+        position: relative;
+        left:11em;
+
+    }
+
+
+
+
+
+
+    .eight-page__info{
+        width: 77em;
+    }
+
+    .eight-page__b {
+        position: relative;
+        left: 27em;
+    }
+
+
+    .eight-page__c {
+        position: relative;
+        left: 33em;
+    }
+
+
+    .eight-page__d {
+        position: relative;
+        left: 40em;
+    }
+}
